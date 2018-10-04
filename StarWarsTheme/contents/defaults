@@ -1,0 +1,15 @@
+[kdeglobals][KDE]
+
+[kdeglobals][General]
+ColorScheme=StarWars Color
+
+[kdeglobals][Icons]
+Theme=Papirus-Dark
+
+[plasmarc][Theme]
+name=StarWars
+
+[kwinrc][org.kde.kdecoration2]
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
